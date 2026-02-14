@@ -41,6 +41,7 @@
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/shruti-sinha-60b112270?
 - Email: sinha.shruti1009@gmail.com
+  
 🌱 Currently improving my skills in test automation frameworks and real-world testing scenarios.
 
 <!---
