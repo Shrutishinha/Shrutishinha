@@ -1,163 +1,153 @@
-<!-- SKY BLUE ANIMATED BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=SHRUTI%20SINHA&fontSize=52&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING%20%7C%20AUTOMATION%20TESTING%20%7C%20DATA%20ANALYTICS&descAlignY=55" />
+<!-- BABY PINK ANIMATED HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=220&section=header&text=SHRUTI%20SINHA&fontSize=52&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING%20%7C%20AUTOMATION%20TESTING%20%7C%20DATA%20ANALYTICS&descAlignY=55" />
 
 ---
 
-<h1 align="center">ENTER MY WORLD OF CODE, DATA & INNOVATION</h1>
+<h1 align="center">WELCOME TO MY WORLD OF CODE & CREATIVITY</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2200&color=00C6FF&center=true&vCenter=true&width=900&lines=Future+Software+Engineer;Automation+Testing+Specialist;Data+Analytics+Explorer;Building+Scalable+Systems;Turning+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2200&color=FF69B4&center=true&vCenter=true&width=900&lines=Future+Software+Engineer;Automation+Testing+Specialist;Data+Analytics+Explorer;Building+Beautiful+Systems;Turning+Dreams+Into+Code" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrutishinha&label=PROFILE+TRAFFIC&color=00c6ff&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=shrutishinha&label=PROFILE+VIEWS&color=ff69b4&style=for-the-badge" />
 </p>
 
 ---
 
-## THE STORY BEHIND THE CODE
+## ABOUT ME
 
-> I am not just learning technology.  
-> I am mastering it.  
-> One project. One system. One solution at a time.
+> Soft in style.  
+> Strong in skills.  
+> Serious about growth.
 
-I am a Computer Science student driven by discipline, creativity, and problem-solving.  
-My focus is on building reliable systems, automating quality, and extracting insights from data.
+I am a B.Tech Computer Science student passionate about creating reliable software, automated systems, and meaningful data insights.
 
-- B.Tech CSE | 6th Semester  
-- Aspiring Software Engineer  
-- Automation & Testing Enthusiast  
-- Data Analytics Explorer  
-- Continuous Learner  
+- 🎓 B.Tech CSE | 6th Semester  
+- 💻 Aspiring Software Engineer  
+- 🧪 Automation Testing Enthusiast  
+- 📊 Data Analytics Learner  
+- 🌱 Lifelong Learner  
 
 ---
 
-## ACADEMIC & CAREER JOURNEY
+## ACADEMIC JOURNEY
 
-<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishinha&layout=compact&theme=tokyonight" />
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishinha&layout=compact&theme=radical" />
 
 - Bachelor of Technology – Computer Science  
-- Strong foundation in programming and testing  
-- Focused on industry-ready skills  
-- Preparing for real-world software challenges  
+- Strong fundamentals in programming & testing  
+- Industry-focused learning path  
+- Career-driven mindset  
 
-Career Vision:  
-To become a reliable, high-impact software professional delivering scalable and quality-driven solutions.
+Goal: To grow into a skilled software professional delivering quality-driven solutions.
 
 ---
 
-## TECHNICAL ARSENAL
+## TECH STACK
 
 ### PROGRAMMING
 <p>
-  <img src="https://img.shields.io/badge/Python-Advanced-00c6ff?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/Java-Basic-0072ff?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Python-Advanced-ff9a9e?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-Basic-fad0c4?style=for-the-badge&logo=java" />
 </p>
 
 ### AUTOMATION & TESTING
 <p>
-  <img src="https://img.shields.io/badge/Selenium-Professional-00e5ff?style=for-the-badge&logo=selenium" />
-  <img src="https://img.shields.io/badge/Test_Frameworks-Scalable-00b0ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Selenium-Testing-ff69b4?style=for-the-badge&logo=selenium" />
+  <img src="https://img.shields.io/badge/Test_Frameworks-Scalable-ffc0cb?style=for-the-badge" />
 </p>
 
-### WEB & ANALYTICS
+### WEB & DATA
 <p>
-  <img src="https://img.shields.io/badge/HTML%20CSS%20JS-Frontend-0288d1?style=for-the-badge&logo=html5" />
-  <img src="https://img.shields.io/badge/PowerBI-Insights-00acc1?style=for-the-badge&logo=powerbi" />
+  <img src="https://img.shields.io/badge/HTML%20CSS%20JS-Frontend-ffb6c1?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/PowerBI-Analytics-ff85a2?style=for-the-badge&logo=powerbi" />
 </p>
 
-### DEVELOPMENT TOOLS
+### TOOLS
 <p>
-  <img src="https://img.shields.io/badge/Git-GitHub-01579b?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/VSCode-Eclipse-0277bd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-GitHub-ff69b4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VSCode-Eclipse-ffb6c1?style=for-the-badge" />
 </p>
 
 ---
 
-## PROJECT SPOTLIGHT
+## FEATURED PROJECTS
 
 ### RISK ANALYSIS DASHBOARD
-- Interactive Power BI dashboards  
-- DAX-based performance insights  
-- Business risk visualization  
+- Interactive Power BI visualizations  
+- DAX-powered insights  
+- Risk prioritization models  
 
 ### AUTOMATION TEST FRAMEWORK
-- Modular Selenium architecture  
-- Reusable components  
-- CI/CD compatible  
+- Reusable Selenium framework  
+- Reporting and validations  
+- Modular architecture  
 
 ### AI RESUME ANALYZER
-- ATS scoring engine  
-- Skill matching logic  
-- Resume optimization system  
+- ATS scoring system  
+- Skill-matching engine  
+- Resume optimization  
 
-### SMART ATTENDANCE PREDICTOR
-- Data-driven prediction model  
-- Analytics integration  
-- Performance reporting  
-
----
-
-## REAL-TIME PERFORMANCE
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutishinha&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutishinha&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutishinha&theme=tokyo-night" />
-</p>
+### SMART ATTENDANCE SYSTEM
+- Predictive analytics  
+- Reporting dashboards  
+- Performance tracking  
 
 ---
 
-## ACHIEVEMENT GALLERY
+## GITHUB STATS
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shrutishinha&theme=algolia&row=1&column=7" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutishinha&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutishinha&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutishinha&theme=dracula" />
 </p>
 
 ---
 
-## EVOLUTION MODE: ACTIVE
+## LEARNING MODE: ON
 
-Currently expanding expertise in:
+Currently exploring:
 
-- Advanced Automation Frameworks  
+- Advanced Selenium Frameworks  
 - API Testing  
 - CI/CD Pipelines  
-- Cloud Computing Basics  
-- Machine Learning Foundations  
+- Cloud Basics  
+- Machine Learning  
 
 ---
 
-## CONNECT & COLLABORATE
+## CONNECT WITH ME
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-sinha-60b112270">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-00c6ff?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-ff69b4?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="mailto:sinha.shruti1009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Reach_Me-0072ff?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-fad0c4?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
 ---
 
-## PERSONAL MANTRA
+## MY MOTTO
 
-> "CONSISTENCY BUILDS CONFIDENCE.  
-> CONFIDENCE BUILDS SUCCESS."
+> "GRACE IN STYLE.  
+> POWER IN CODE."
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=130&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ff9a9e&height=130&section=footer" />
 
 <p align="center">
-  DESIGNED, DEVELOPED & DRIVEN BY SHRUTI SINHA  
-  LET'S CREATE IMPACT THROUGH TECHNOLOGY
+  Crafted with Passion by Shruti Sinha  
+  Let's Build Something Beautiful Together
 </p>
