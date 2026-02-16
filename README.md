@@ -1,142 +1,125 @@
-<h1 align="center">HI, I'M SHRUTI SINHA</h1>
+<!-- TOP ANIMATED BANNER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=200&section=header&text=SHRUTI%20SINHA&fontSize=50&fontAlignY=35&desc=Aspiring%20Software%20Engineer%20%7C%20Automation%20Tester%20%7C%20Data%20Analyst&descAlignY=55" />
+
+---
+
+<h1 align="center">WELCOME TO MY DIGITAL UNIVERSE</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Aspiring+Software+Engineer;Automation+Testing+Enthusiast;Data+%26+Analytics+Learner;Future+Data+Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&color=00F7FF&center=true&vCenter=true&width=800&lines=B.Tech+Computer+Science+Student;Future+Software+Engineer;Automation+Testing+Specialist;Data+Analytics+Enthusiast;Building+The+Future+With+Code" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shrutishinha&label=Profile%20Views&color=blue&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=shrutishinha&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge" />
 </p>
 
 ---
 
-## ABOUT ME
+## WHO AM I
 
-I am a motivated B.Tech Computer Science student (6th Semester) with strong interests in:
+> A passionate Computer Science student driven by innovation, automation, and analytics.  
+> I design systems, break bugs, analyze data, and continuously evolve as a technologist.
 
-- Software Development  
-- Automation Testing  
-- Data Analytics  
-- Business Intelligence  
-- Quality Engineering  
-
-I enjoy building scalable applications, designing automation frameworks, and creating data-driven dashboards that support decision-making.
-
-I am continuously improving my technical expertise and practical problem-solving skills.
+- Final Year B.Tech Student (6th Semester)  
+- Automation Testing Specialist in Progress  
+- Data Analyst in Making  
+- Strong Foundation in Programming  
+- Dedicated to Continuous Growth  
 
 ---
 
-## ACADEMIC BACKGROUND
+## ACADEMIC JOURNEY
 
-- Bachelor of Technology in Computer Science (6th Semester)  
-- Focus Area: Software Engineering, Testing, and Analytics  
-- Career Goal: Software Engineer / Automation Engineer / Data Analyst  
+<img align="right" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishinha&layout=compact&theme=tokyonight" />
 
----
-
-## TECHNICAL SKILLS
-
-### Programming Languages
-- Python  
-- Java (Basic)  
-
-### Automation & Testing
-- Selenium  
-- Test Automation Framework Design  
-- Test Case Development  
-- Regression Testing  
-- Reporting & Validation  
-
-### Web Technologies
-- HTML  
-- CSS  
-- JavaScript  
-
-### Data & Analytics
-- Power BI  
-- Excel  
-- DAX  
-- Data Visualization  
-
-### Tools & Platforms
-- Git  
-- GitHub  
-- VS Code  
-- Eclipse  
-- JIRA (Basic)  
+- Bachelor of Technology – Computer Science  
+- Focus: Software Engineering, Testing, Analytics  
+- Career Objective: Industry-Ready Software Professional  
 
 ---
 
-## FEATURED PROJECTS
+## TECH STACK
 
-### RISK ANALYSIS POWER BI DASHBOARD
-- Developed interactive business dashboards  
-- Implemented DAX measures  
-- Analyzed process risks  
-- Improved decision support systems  
+### PROGRAMMING
+<p>
+  <img src="https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Java-Basic-orange?style=for-the-badge&logo=java" />
+</p>
+
+### AUTOMATION
+<p>
+  <img src="https://img.shields.io/badge/Selenium-Pro-green?style=for-the-badge&logo=selenium" />
+  <img src="https://img.shields.io/badge/Test_Frameworks-Advanced-purple?style=for-the-badge" />
+</p>
+
+### WEB & DATA
+<p>
+  <img src="https://img.shields.io/badge/HTML-CSS-JS-red?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/PowerBI-Analytics-yellow?style=for-the-badge&logo=powerbi" />
+</p>
+
+### TOOLS
+<p>
+  <img src="https://img.shields.io/badge/Git-GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/VSCode-Eclipse-blue?style=for-the-badge" />
+</p>
+
+---
+
+## FEATURED PROJECT SHOWCASE
+
+### RISK ANALYSIS DASHBOARD
+- Interactive Power BI dashboards  
+- DAX-based insights  
+- Business risk prioritization  
 
 ### AUTOMATION TEST FRAMEWORK
-- Designed reusable Selenium framework  
-- Implemented modular test cases  
-- Added reporting and validations  
-- Improved testing efficiency  
+- Modular Selenium framework  
+- Reusable components  
+- CI-ready testing  
 
 ### AI RESUME ANALYZER
-- Built ATS-based resume analyzer  
-- Implemented skill matching logic  
-- Developed scoring mechanism  
-- Enhanced resume screening accuracy  
+- ATS scoring system  
+- Skill mapping  
+- Resume optimization  
 
-### SMART ATTENDANCE PREDICTOR
-- Built predictive model  
-- Analyzed attendance patterns  
-- Used Python and ML concepts  
+### SMART ATTENDANCE SYSTEM
+- Predictive modeling  
+- Data-driven insights  
 
 ---
 
-## CURRENTLY LEARNING
-
-- Advanced Selenium Frameworks  
-- API Testing (Postman, REST)  
-- CI/CD Integration  
-- Data Analytics & Visualization  
-- Machine Learning Basics  
-
----
-
-## GITHUB STATS
+## LIVE GITHUB PERFORMANCE
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shrutishinha&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutishinha&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutishinha&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutishinha&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishinha&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutishinha&theme=react-dark" />
 </p>
 
 ---
 
-## ACHIEVEMENTS & ACTIVITIES
+## TROPHY WALL
 
-- Built multiple academic and personal projects  
-- Regular contributor to GitHub repositories  
-- Experience in real-world testing scenarios  
-- Strong interest in automation and analytics  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shrutishinha&theme=radical&row=1&column=7" />
+</p>
 
 ---
 
-## PROFESSIONAL INTERESTS
+## LEARNING MODE: ALWAYS ON
 
-- Software Testing  
-- Test Automation  
-- Data Analysis  
-- Business Intelligence  
-- Quality Engineering  
-- Machine Learning (Beginner Level)  
+- Advanced Automation Frameworks  
+- API Testing & Integration  
+- CI/CD Pipelines  
+- Cloud Basics  
+- Machine Learning Foundations  
 
 ---
 
@@ -144,7 +127,7 @@ I am continuously improving my technical expertise and practical problem-solving
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shruti-sinha-60b112270">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Network-blue?style=for-the-badge&logo=linkedin" />
   </a>
 
   <a href="mailto:sinha.shruti1009@gmail.com">
@@ -154,13 +137,15 @@ I am continuously improving my technical expertise and practical problem-solving
 
 ---
 
-## PERSONAL MOTTO
+## LIFE PHILOSOPHY
 
-"LEARNING NEVER STOPS. IMPROVEMENT IS A DAILY PROCESS."
+> "DISCIPLINE. CONSISTENCY. EXECUTION. SUCCESS."
 
 ---
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:99f2c8,100:1f4037&height=120&section=footer" />
+
 <p align="center">
-  THANK YOU FOR VISITING MY PROFILE  
-  LET'S CONNECT AND BUILD SOMETHING GREAT
+  MADE WITH PASSION BY SHRUTI SINHA  
+  LET'S BUILD THE FUTURE TOGETHER
 </p>
