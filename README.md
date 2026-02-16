@@ -1,92 +1,166 @@
-# 👋 Hi, I'm Shruti
+<h1 align="center">HI, I'M SHRUTI SINHA</h1>
 
-I am a B.Tech Computer Science student (6th Semester) with a strong interest in software development, automation testing, and data analytics. I am passionate about building efficient, scalable, and user-focused solutions while continuously improving my technical expertise.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=B.Tech+Computer+Science+Student;Aspiring+Software+Engineer;Automation+Testing+Enthusiast;Data+%26+Analytics+Learner;Future+Data+Analyst" />
+</p>
 
-# 🎓 Academic Background
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shrutishinha&label=Profile%20Views&color=blue&style=flat-square" />
+</p>
 
-Bachelor of Technology in Computer Science (6th Semester)
+---
 
-Aspiring Software Engineer with a focus on testing and analytics
+## ABOUT ME
 
-🛠️ Technical Skills
+I am a motivated B.Tech Computer Science student (6th Semester) with strong interests in:
 
-Programming Languages
+- Software Development  
+- Automation Testing  
+- Data Analytics  
+- Business Intelligence  
+- Quality Engineering  
 
-Python
+I enjoy building scalable applications, designing automation frameworks, and creating data-driven dashboards that support decision-making.
 
-Java (Basic)
+I am continuously improving my technical expertise and practical problem-solving skills.
 
-Automation Testing
+---
 
-Selenium
+## ACADEMIC BACKGROUND
 
-Test Automation Framework Design
+- Bachelor of Technology in Computer Science (6th Semester)  
+- Focus Area: Software Engineering, Testing, and Analytics  
+- Career Goal: Software Engineer / Automation Engineer / Data Analyst  
 
-Test Case Development and Execution
+---
 
-Web Technologies
+## TECHNICAL SKILLS
 
-HTML
+### Programming Languages
+- Python  
+- Java (Basic)  
 
-CSS
+### Automation & Testing
+- Selenium  
+- Test Automation Framework Design  
+- Test Case Development  
+- Regression Testing  
+- Reporting & Validation  
 
-JavaScript
+### Web Technologies
+- HTML  
+- CSS  
+- JavaScript  
 
-Data & Analytics
+### Data & Analytics
+- Power BI  
+- Excel  
+- DAX  
+- Data Visualization  
 
-Power BI
+### Tools & Platforms
+- Git  
+- GitHub  
+- VS Code  
+- Eclipse  
+- JIRA (Basic)  
 
-Microsoft Excel
+---
 
-DAX Measures and Reporting
+## FEATURED PROJECTS
 
-Tools & Platforms
+### RISK ANALYSIS POWER BI DASHBOARD
+- Developed interactive business dashboards  
+- Implemented DAX measures  
+- Analyzed process risks  
+- Improved decision support systems  
 
-Git
+### AUTOMATION TEST FRAMEWORK
+- Designed reusable Selenium framework  
+- Implemented modular test cases  
+- Added reporting and validations  
+- Improved testing efficiency  
 
-GitHub
+### AI RESUME ANALYZER
+- Built ATS-based resume analyzer  
+- Implemented skill matching logic  
+- Developed scoring mechanism  
+- Enhanced resume screening accuracy  
 
-Visual Studio Code
+### SMART ATTENDANCE PREDICTOR
+- Built predictive model  
+- Analyzed attendance patterns  
+- Used Python and ML concepts  
 
-📊 Featured Projects
-Risk Analysis Power BI Dashboard
+---
 
-Developed an interactive dashboard for business risk analysis
+## CURRENTLY LEARNING
 
-Implemented DAX measures and time-based insights
+- Advanced Selenium Frameworks  
+- API Testing (Postman, REST)  
+- CI/CD Integration  
+- Data Analytics & Visualization  
+- Machine Learning Basics  
 
-Focused on data-driven decision-making and risk prioritization
+---
 
-Automation Testing Framework (Selenium)
+## GITHUB STATS
 
-Designed a reusable and scalable automation framework
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shrutishinha&show_icons=true&theme=tokyonight" />
+</p>
 
-Implemented test cases, reporting, and validation mechanisms
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutishinha&theme=tokyonight" />
+</p>
 
-Improved testing efficiency and reliability
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishinha&layout=compact&theme=tokyonight" />
+</p>
 
-AI Resume Analyzer
+---
 
-Built an ATS-based resume evaluation system
+## ACHIEVEMENTS & ACTIVITIES
 
-Implemented skill-matching and scoring algorithms
+- Built multiple academic and personal projects  
+- Regular contributor to GitHub repositories  
+- Experience in real-world testing scenarios  
+- Strong interest in automation and analytics  
 
-Enhanced resume screening accuracy
+---
 
-🌱 Currently Learning
+## PROFESSIONAL INTERESTS
 
-Advanced Selenium and Automation Frameworks
+- Software Testing  
+- Test Automation  
+- Data Analysis  
+- Business Intelligence  
+- Quality Engineering  
+- Machine Learning (Beginner Level)  
 
-API Testing
+---
 
-Data Analytics and Visualization Techniques
+## CONNECT WITH ME
 
-📫 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/shruti-sinha-60b112270">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
 
-LinkedIn: https://www.linkedin.com/in/shruti-sinha-60b112270
+  <a href="mailto:sinha.shruti1009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
-Email: sinha.shruti1009@gmail.com
+---
 
-🚀 Professional Objective
+## PERSONAL MOTTO
 
-I am continuously working on strengthening my skills in test automation frameworks and real-world testing environments, with the goal of contributing to high-impact software projects and growing as a reliable software professional
+"LEARNING NEVER STOPS. IMPROVEMENT IS A DAILY PROCESS."
+
+---
+
+<p align="center">
+  THANK YOU FOR VISITING MY PROFILE  
+  LET'S CONNECT AND BUILD SOMETHING GREAT
+</p>
