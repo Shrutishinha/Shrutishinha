@@ -1,50 +1,92 @@
-# Hi, I'm Shruti 👋
+# 👋 Hi, I'm Shruti
 
-🎓 B.Tech Computer Science student (6th Semester)  
-💼 Aspiring Software Engineer | Automation Testing | Data & Analytics  
+I am a B.Tech Computer Science student (6th Semester) with a strong interest in software development, automation testing, and data analytics. I am passionate about building efficient, scalable, and user-focused solutions while continuously improving my technical expertise.
 
----
+# 🎓 Academic Background
 
-## 🛠️ Technical Skills
-- **Programming:** Python, Java (Basics)
-- **Automation Testing:** Selenium, Test Automation Frameworks
-- **Web Technologies:** HTML, CSS, JavaScript
-- **Data & Analytics:** Power BI, Excel
-- **Tools:** Git, GitHub, VS Code
+Bachelor of Technology in Computer Science (6th Semester)
 
----
+Aspiring Software Engineer with a focus on testing and analytics
 
-## 📊 Featured Projects
-### 🔹 Risk Analysis Power BI Dashboard
-- Built an interactive Power BI dashboard to analyze business process risks
-- Used DAX measures and time-based insights
-- Focused on decision-making and risk prioritization
+🛠️ Technical Skills
 
-### 🔹 Automation Test Framework (Selenium)
-- Designed reusable automation framework
-- Implemented test cases, reporting, and validations
+Programming Languages
 
-### 🔹 AI Resume Analyzer
-- ATS-based resume evaluation tool
-- Skill matching and scoring logic
+Python
 
----
+Java (Basic)
 
-## 🌱 Currently Learning
-- Advanced Selenium & Automation Frameworks
-- API Testing
-- Data Analytics & Visualization
-  
+Automation Testing
 
----
+Selenium
 
-## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/shruti-sinha-60b112270?
-- Email: sinha.shruti1009@gmail.com
-  
-🌱 Currently improving my skills in test automation frameworks and real-world testing scenarios.
+Test Automation Framework Design
 
-<!---
-Shrutishinha/Shrutishinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Test Case Development and Execution
+
+Web Technologies
+
+HTML
+
+CSS
+
+JavaScript
+
+Data & Analytics
+
+Power BI
+
+Microsoft Excel
+
+DAX Measures and Reporting
+
+Tools & Platforms
+
+Git
+
+GitHub
+
+Visual Studio Code
+
+📊 Featured Projects
+Risk Analysis Power BI Dashboard
+
+Developed an interactive dashboard for business risk analysis
+
+Implemented DAX measures and time-based insights
+
+Focused on data-driven decision-making and risk prioritization
+
+Automation Testing Framework (Selenium)
+
+Designed a reusable and scalable automation framework
+
+Implemented test cases, reporting, and validation mechanisms
+
+Improved testing efficiency and reliability
+
+AI Resume Analyzer
+
+Built an ATS-based resume evaluation system
+
+Implemented skill-matching and scoring algorithms
+
+Enhanced resume screening accuracy
+
+🌱 Currently Learning
+
+Advanced Selenium and Automation Frameworks
+
+API Testing
+
+Data Analytics and Visualization Techniques
+
+📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/shruti-sinha-60b112270
+
+Email: sinha.shruti1009@gmail.com
+
+🚀 Professional Objective
+
+I am continuously working on strengthening my skills in test automation frameworks and real-world testing environments, with the goal of contributing to high-impact software projects and growing as a reliable software professional
