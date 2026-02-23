@@ -83,9 +83,17 @@ status: Always Growing, Always Glowing ✨
 <div align="center">
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=shrutishinha&label=🌸%20profile%20views&color=e891c0&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/shrutishinha?label=🌷%20followers&style=for-the-badge&color=ffd6e8&labelColor=f7b8d8"/>
-  <img src="https://img.shields.io/github/stars/shrutishinha?label=⭐%20stars&style=for-the-badge&color=ffe6f0&labelColor=f7b8d8"/>
+  <img src="https://komarev.com/ghpvc/?username=Shrutishinha&label=🌸%20profile%20views&color=e891c0&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Shrutishinha?label=🌷%20followers&style=for-the-badge&color=ffd6e8&labelColor=f7b8d8"/>
+  <img src="https://img.shields.io/github/stars/Shrutishinha?label=⭐%20stars&style=for-the-badge&color=ffe6f0&labelColor=f7b8d8"/>
+</p>
+
+<!-- 🌸 Real Stats from February 2026: 63 commits across 10 repos | Active since 2023 -->
+<p>
+  <img src="https://img.shields.io/badge/💌%20Feb%202026-63%20commits-ffe6f0?style=for-the-badge&labelColor=ffd1e8&color=f7b8d8"/>
+  <img src="https://img.shields.io/badge/🌷%20Repos-10%20active-ffd6e8?style=for-the-badge&labelColor=ffc2e0&color=ffe0f0"/>
+  <img src="https://img.shields.io/badge/📅%20Since-2023-ffeaf4?style=for-the-badge&labelColor=ffd6e8&color=ffe6f0"/>
+  <img src="https://img.shields.io/badge/🧪%20Focus-100%25%20Commits-ffd1e6?style=for-the-badge&labelColor=f7b8d8&color=ffddef"/>
 </p>
 
 </div>
@@ -96,16 +104,16 @@ status: Always Growing, Always Glowing ✨
 
 <div align="center">
 
-<a href="https://github.com/shrutishinha">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shrutishinha&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&icon_color=e891c0&border_radius=15"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutishinha&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&border_radius=15"/>
+<a href="https://github.com/Shrutishinha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&icon_color=e891c0&border_radius=15&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutishinha&layout=compact&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&border_radius=15"/>
 </a>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrutishinha&theme=rose_pine&hide_border=true&background=fff0f7&ring=e891c0&fire=c060a1&currStreakLabel=8e3a59&sideLabels=8e3a59&currStreakNum=c060a1&sideNums=b5557a&dates=d4899e&border_radius=15"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutishinha&theme=rose_pine&hide_border=true&background=fff0f7&ring=e891c0&fire=c060a1&currStreakLabel=8e3a59&sideLabels=8e3a59&currStreakNum=c060a1&sideNums=b5557a&dates=d4899e&border_radius=15"/>
 
 </div>
 
@@ -115,7 +123,7 @@ status: Always Growing, Always Glowing ✨
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shrutishinha&bg_color=fff0f7&color=8e3a59&line=e891c0&point=c060a1&area=true&area_color=ffd6e8&hide_border=true&border_radius=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutishinha&bg_color=fff0f7&color=8e3a59&line=e891c0&point=c060a1&area=true&area_color=ffd6e8&hide_border=true&border_radius=15"/>
 
 </div>
 
@@ -125,7 +133,7 @@ status: Always Growing, Always Glowing ✨
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shrutishinha&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://github-profile-trophy.vercel.app/?username=Shrutishinha&theme=radical&no-frame=true&no-bg=false&margin-w=8&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 
 </div>
 
@@ -135,11 +143,11 @@ status: Always Growing, Always Glowing ✨
 
 <div align="center">
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrutishinha&repo=risk-analysis-dashboard&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&icon_color=e891c0&border_radius=15" />
+<a href="https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Da">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrutishinha&repo=Risk-Analysis-PowerBI-Dashboard&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&icon_color=e891c0&border_radius=15" />
 </a>
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shrutishinha&repo=automation-test-framework&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&icon_color=e891c0&border_radius=15" />
+<a href="https://github.com/Shrutishinha/Resume-Analyser">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrutishinha&repo=Resume-Analyser&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&icon_color=e891c0&border_radius=15" />
 </a>
 
 </div>
@@ -148,12 +156,29 @@ status: Always Growing, Always Glowing ✨
 
 <div align="center">
 
-| 🌸 Project | 💡 About | 🛠️ Stack |
-|:---:|:---:|:---:|
-| **Risk Analysis Dashboard** | Power BI dashboard with DAX insights & risk prioritization | Power BI · DAX · Excel |
-| **Automation Test Framework** | Reusable Selenium-based scalable architecture | Selenium · TestNG · Java |
-| **AI Resume Analyzer** | ATS scoring + intelligent skill matching | Python · NLP · ML |
-| **Smart Attendance System** | Analytics-powered attendance tracking | Python · SQL · Power BI |
+<a href="https://github.com/Shrutishinha/smart-attendance-system">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrutishinha&repo=smart-attendance-system&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&icon_color=e891c0&border_radius=15" />
+</a>
+<a href="https://github.com/Shrutishinha/lambdatest-search-test">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shrutishinha&repo=lambdatest-search-test&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&icon_color=e891c0&border_radius=15" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| 🌸 Project | 💡 About | 🛠️ Stack | 📊 Activity |
+|:---:|:---:|:---:|:---:|
+| [**Risk Analysis Dashboard**](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard) | Power BI dashboard with DAX insights & risk prioritization | Power BI · DAX · Excel | 5 commits |
+| [**Resume Analyser**](https://github.com/Shrutishinha/Resume-Analyser) | ATS scoring + intelligent skill matching | Python · NLP · ML | 7 commits |
+| [**Smart Attendance System**](https://github.com/Shrutishinha/smart-attendance-system) | Analytics-powered attendance tracking | Python · SQL · Power BI | 9 commits |
+| [**LambdaTest Search**](https://github.com/Shrutishinha/lambdatest-search-test) | Cross-browser automation test suite | Selenium · Java · TestNG | 5 commits |
+| [**Lamda Mobile Testcases**](https://github.com/Shrutishinha/lamda_mobile_testcases) | Mobile test automation framework | Appium · Java | 3 commits |
+| [**Smart Attendance Predictor**](https://github.com/Shrutishinha/smart-attendance-predictor) | ML-based attendance prediction | Python · ML · Pandas | 1 commit |
+| [**Aarogyavan**](https://github.com/Shrutishinha/aarogyavan) | Health & wellness tracking app | Python · Analytics | 5 commits |
+| [**Portfolio**](https://github.com/Shrutishinha/portfolio) | Personal portfolio website | HTML · CSS · JS | 3 commits |
 
 </div>
 
@@ -174,15 +199,35 @@ status: Always Growing, Always Glowing ✨
 
 ---
 
+## 📊 february 2026 garden bloom
+
+<div align="center">
+
+*real activity snapshot 🌸*
+
+| 🌷 Repository | 🔢 Commits | 🌱 Focus |
+|:---|:---:|:---|
+| [Shrutishinha](https://github.com/Shrutishinha/Shrutishinha) | **14** | Profile README |
+| [shee](https://github.com/Shrutishinha/shee) | **11** | Project Work |
+| [smart-attendance-system](https://github.com/Shrutishinha/smart-attendance-system) | **9** | Analytics |
+| [Resume-Analyser](https://github.com/Shrutishinha/Resume-Analyser) | **7** | AI/ML |
+| [aarogyavan](https://github.com/Shrutishinha/aarogyavan) | **5** | Health App |
+| [lambdatest-search-test](https://github.com/Shrutishinha/lambdatest-search-test) | **5** | Automation |
+| [Risk-Analysis-PowerBI-Dashboard](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard) | **5** | Data Analytics |
+| [lamda_mobile_testcases](https://github.com/Shrutishinha/lamda_mobile_testcases) | **3** | Mobile Testing |
+| [portfolio](https://github.com/Shrutishinha/portfolio) | **3** | Web Dev |
+| [smart-attendance-predictor](https://github.com/Shrutishinha/smart-attendance-predictor) | **1** | ML |
+| | **63 total** 🎉 | |
+
+</div>
+
+---
+
 ## 📅 coding rhythm
 
 <div align="center">
 
-<!--START_SECTION:waka-->
-<!-- This section will auto-update with WakaTime if configured -->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=shrutishinha&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&border_radius=15&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Shrutishinha&theme=rose_pine&hide_border=true&bg_color=fff0f7&title_color=8e3a59&text_color=b5557a&border_radius=15&layout=compact" />
 
 </div>
 
@@ -211,7 +256,7 @@ status: Always Growing, Always Glowing ✨
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20Connect-ffe6f0?style=for-the-badge&logo=linkedin&logoColor=8e3a59&labelColor=ffd1e8)](https://www.linkedin.com/in/shruti-sinha-60b112270)
 [![Email](https://img.shields.io/badge/Email-%20Say%20Hello-ffd6e8?style=for-the-badge&logo=gmail&logoColor=8e3a59&labelColor=ffc2e0)](mailto:sinha.shruti1009@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%20Follow-ffeaf4?style=for-the-badge&logo=github&logoColor=8e3a59&labelColor=ffd6e8)](https://github.com/shrutishinha)
+[![GitHub](https://img.shields.io/badge/GitHub-%20Follow-ffeaf4?style=for-the-badge&logo=github&logoColor=8e3a59&labelColor=ffd6e8)](https://github.com/Shrutishinha)
 
 <br/>
 
