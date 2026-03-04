@@ -1,91 +1,28 @@
+<!-- SHRUTI SINHA | github.com/Shrutishinha -->
+
+<!-- HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f48fb1,100:e91e63&height=280&section=header&text=Shruti%20Sinha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Automation%20%7C%20Data%20Analytics&descSize=18&descAlignY=62&descColor=fce4ec"/>
+
 <div align="center">
 
-# ✨ Shruti Sinha
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Automation+%7C+Analytics;Selenium+%7C+Power+BI+%7C+Python+%7C+Java;Building+clean+systems+with+soft+precision.;Always+learning.+Always+growing.)](https://git.io/typing-svg)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=22&pause=1000&color=E91E63&center=true&vCenter=true&width=500&lines=Automation+Engineer+in+Progress;B.Tech+CSE+Student;Future+Software+Engineer;Data+Analytics+Explorer" />
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
 
 ---
 
-## 🌸 about.me
+## ✦ about me
+
+<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```yaml
 name     : Shruti Sinha
-role     : B.Tech CSE Student
-aspiring : Software Engineer | Data Analyst
-focus    : Automation Testing · Data Analytics · Backend Logic
-currently: Building real-world projects & strengthening DSA
+role     : Software Engineer
+degree   : B.Tech — Computer Science
+focus    : Automation Testing & Data Analytics
 mantra   : "clean code. quiet confidence."
-```
-
-I build automation systems, data dashboards, and backend logic that solve real problems.  
-Focused on writing structured, maintainable, production-ready code.
-
----
-
-## 🚀 tech.stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,python,sql,mysql,selenium,git,github,vscode,html,css" />
-
-</div>
-
----
-
-## 📊 github.stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&theme=radical&hide_border=true&border_radius=15" height="170"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shrutishinha&theme=radical&hide_border=true&border_radius=15" height="170"/>
-
-</div>
-
----
-
-## 🌟 contribution.summary
-
-**78 commits · 10 repositories · 112 total contributions (2026)**
-
----
-
-## 💼 featured.projects
-
-### 🔹 Automation Testing Framework  
-Selenium-based automation suite for functional and regression testing with modular design.
-
-### 🔹 Power BI Sales Dashboard  
-Interactive dashboard analyzing $24M+ sales data with KPI insights.
-
-### 🔹 Machine Learning Model  
-Supervised learning project with preprocessing, feature engineering, and performance evaluation.
-
-### 🔹 Portfolio Website  
-Animated personal portfolio with smooth transitions and responsive design.
-
----
-
-## 📫 connect.with.me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR-LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR-EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-✨ Always building. Always improving.
-
-</div>
+status   : always learning, always building
