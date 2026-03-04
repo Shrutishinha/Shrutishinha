@@ -157,16 +157,16 @@ status   : always learning, always building
 
 | Repository | Commits | Breakdown |
 |:-----------|:-------:|:----------|
-| [Shrutishinha](https://github.com/Shrutishinha/Shrutishinha) | 14 | `███████████████░` |
+| [Shrutishinha](https://github.com/Shrutishinha/Shrutishinha) | 18 | `███████████████░` |
 | [shee](https://github.com/Shrutishinha/shee) | 11 | `████████████░░░░` |
 | [smart-attendance-system](https://github.com/Shrutishinha/smart-attendance-system) | 9 | `██████████░░░░░░` |
 | [Resume-Analyser](https://github.com/Shrutishinha/Resume-Analyser) | 7 | `████████░░░░░░░░` |
 | [aarogyavan](https://github.com/Shrutishinha/aarogyavan) | 5 | `██████░░░░░░░░░░` |
-| [lambdatest-search-test](https://github.com/Shrutishinha/lambdatest-search-test) | 5 | `██████░░░░░░░░░░` |
+| [lambdatest-search-test](https://github.com/Shrutishinha/lambdatest-search-test) | 8 | `██████░░░░░░░░░░` |
 | [Risk-Analysis-PowerBI-Dashboard](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard) | 5 | `██████░░░░░░░░░░` |
-| [lamda_mobile_testcases](https://github.com/Shrutishinha/lamda_mobile_testcases) | 3 | `████░░░░░░░░░░░░` |
+| [lamda_mobile_testcases](https://github.com/Shrutishinha/lamda_mobile_testcases) | 5 | `████░░░░░░░░░░░░` |
 | [portfolio](https://github.com/Shrutishinha/portfolio) | 3 | `████░░░░░░░░░░░░` |
-| [smart-attendance-predictor](https://github.com/Shrutishinha/smart-attendance-predictor) | 1 | `██░░░░░░░░░░░░░░` |
+| [smart-attendance-predictor](https://github.com/Shrutishinha/smart-attendance-predictor) | 7 | `██░░░░░░░░░░░░░░` |
 
 </div>
 
