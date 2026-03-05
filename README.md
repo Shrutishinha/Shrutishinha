@@ -1,6 +1,4 @@
-<!-- SHRUTI SINHA | github.com/Shrutishinha --> only replace the wrong info with rigt one without modifying the code even a bit just make the specific changes and copy the whole code
-
- changes according to ss
+<!-- SHRUTI SINHA | github.com/Shrutishinha --> 
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f48fb1,100:e91e63&height=280&section=header&text=Shruti%20Sinha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Automation%20%7C%20Data%20Analytics&descSize=18&descAlignY=62&descColor=fce4ec"/>
 
