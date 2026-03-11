@@ -1,6 +1,6 @@
 <!-- SHRUTI SINHA | github.com/Shrutishinha --> 
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f48fb1,100:e91e63&height=280&section=header&text=Shruti%20Sinha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Automation%20%7C%20Data%20Analytics&descSize=18&descAlignY=62&descColor=fce4ec"/>
+<img width="100%" src="https://capsule-render.vercel.app/api? HELtype=waving&color=0:fce4ec,50:f48fb1,100:e91e63&height=280&section=header&text=Shruti%20Sinha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Automation%20%7C%20Data%20Analytics&descSize=18&descAlignY=62&descColor=fce4ec"/>
 
 <div align="center">
 
