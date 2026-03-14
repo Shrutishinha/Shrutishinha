@@ -29,7 +29,7 @@ status   : always learning, always building
 ```
 
 **What I do:**
-- 🧪 Design & build automation test frameworks HI
+- 🧪 Design & build automation test frameworks 
 - 📊 Transform raw data into actionable dashboards
 - 💻 Write clean, maintainable, purposeful code
 - 🌱 Pick up new tools faster than I finish my coffee
