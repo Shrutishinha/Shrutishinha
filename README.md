@@ -1,40 +1,40 @@
-<!-- SHRUTI SINHA | github.com/Shrutishinha --> 
-<!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fce4ec,50:f48fb1,100:e91e63&height=280&section=header&text=Shruti%20Sinha&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Automation%20%7C%20Data%20Analytics&descSize=18&descAlignY=62&descColor=fce4ec"/>
-
 <div align="center">
 
-<!-- TYPING SVG — using shields.io style fallback with verified working URL -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=E91E63&center=true&vCenter=true&width=700&lines=Software+Engineer+%7C+Automation+%7C+Analytics;Selenium+%7C+Power+BI+%7C+Python+%7C+Java;Building+clean+systems+with+soft+precision.;Always+learning.+Always+growing.)](https://git.io/typing-svg)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0a2e,60:2d1b69,100:7c3aed&height=300&section=header&text=Shruti%20Sinha&fontSize=72&fontColor=e2d9f3&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Automation%20%7C%20Analytics&descSize=17&descAlignY=62&descColor=a78bfa&stroke=7c3aed&strokeWidth=2"/>
 
 </div>
 
----
+<div align="center">
 
-## ✦ about me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+full-stack+apps+with+MERN+%26+AI+integrations;Automating+the+repetitive%2C+analyzing+the+complex;442+contributions+and+counting...;From+Kanban+pipelines+to+Power+BI+dashboards)](https://git.io/typing-svg)
 
-<img align="right" width="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</div>
 
-```yaml
-name     : Shruti Sinha
-role     : Software Engineer
-degree   : B.Tech — Computer Science
-focus    : Automation Testing & Data Analytics
-mantra   : "clean code. quiet confidence."
-status   : always learning, always building
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+## 〔 about me 〕
+
+<img align="right" width="240" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" style="border-radius:12px; margin-left:20px;"/>
+
+```typescript
+const shruti: Developer = {
+  name        : "Shruti Sinha",
+  degree      : "B.Tech CSE @ Dronacharya College, Gurugram",
+  role        : "Software Developer / Automation Engineer",
+  currentWork : "HireTrack — AI-powered job search OS (MERN)",
+  interests   : ["Full-Stack Dev", "Test Automation", "Data Analytics"],
+  learning    : ["Docker & CI/CD", "Advanced Selenium", "Cloud (AWS)"],
+  mantra      : "ship clean code, stay curious, keep building."
+}
 ```
 
-**What I do:**
-- 🧪 Design & build automation test frameworks 
-- 📊 Transform raw data into actionable dashboards
-- 💻 Write clean, maintainable, purposeful code
-- 🌱 Pick up new tools faster than I finish my coffee
-
-> *"She believed she could, so she coded."*
+**What I'm up to:**
+- 🚀 Building **HireTrack** — a full-stack job tracking app with Gemini AI, Kanban pipeline & real-time job feeds
+- 🧪 Crafting cross-browser automation test suites with **Selenium + TestNG + LambdaTest**
+- 📊 Designing **Power BI dashboards** with DAX insights & risk analysis
+- 🤖 Exploring ML-based prediction models & NLP for resume analysis
 
 <br clear="right"/>
 
@@ -42,43 +42,55 @@ status   : always learning, always building
 
 ---
 
-## ✦ tech stack
+## 〔 tech stack 〕
 
 <div align="center">
 
-**Languages**
+**⬡ Full-Stack Development**
 
-![Python](https://img.shields.io/badge/Python-fce4ec?style=flat-square&logo=python&logoColor=c2185b)
-![Java](https://img.shields.io/badge/Java-f8bbd0?style=flat-square&logo=openjdk&logoColor=c2185b)
-![JavaScript](https://img.shields.io/badge/JavaScript-fce4ec?style=flat-square&logo=javascript&logoColor=c2185b)
-![SQL](https://img.shields.io/badge/SQL-f8bbd0?style=flat-square&logo=mysql&logoColor=c2185b)
-![HTML](https://img.shields.io/badge/HTML5-fce4ec?style=flat-square&logo=html5&logoColor=c2185b)
-![CSS](https://img.shields.io/badge/CSS3-f8bbd0?style=flat-square&logo=css3&logoColor=c2185b)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a0a2e?style=flat-square&logo=mongodb&logoColor=a78bfa)
+![Express](https://img.shields.io/badge/Express.js-1a0a2e?style=flat-square&logo=express&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-1a0a2e?style=flat-square&logo=react&logoColor=a78bfa)
+![Node.js](https://img.shields.io/badge/Node.js-1a0a2e?style=flat-square&logo=nodedotjs&logoColor=a78bfa)
+![Vite](https://img.shields.io/badge/Vite-1a0a2e?style=flat-square&logo=vite&logoColor=a78bfa)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a0a2e?style=flat-square&logo=tailwindcss&logoColor=a78bfa)
+![JWT](https://img.shields.io/badge/JWT-1a0a2e?style=flat-square&logo=jsonwebtokens&logoColor=a78bfa)
 
-**Testing & Automation**
+**⬡ Languages**
 
-![Selenium](https://img.shields.io/badge/Selenium-fce4ec?style=flat-square&logo=selenium&logoColor=c2185b)
-![TestNG](https://img.shields.io/badge/TestNG-f8bbd0?style=flat-square&logoColor=c2185b)
-![Appium](https://img.shields.io/badge/Appium-fce4ec?style=flat-square&logoColor=c2185b)
-![Postman](https://img.shields.io/badge/Postman-f8bbd0?style=flat-square&logo=postman&logoColor=c2185b)
-![JUnit](https://img.shields.io/badge/JUnit5-fce4ec?style=flat-square&logo=junit5&logoColor=c2185b)
-![LambdaTest](https://img.shields.io/badge/LambdaTest-f8bbd0?style=flat-square&logoColor=c2185b)
+![JavaScript](https://img.shields.io/badge/JavaScript-2d1b69?style=flat-square&logo=javascript&logoColor=e2d9f3)
+![Python](https://img.shields.io/badge/Python-2d1b69?style=flat-square&logo=python&logoColor=e2d9f3)
+![Java](https://img.shields.io/badge/Java-2d1b69?style=flat-square&logo=openjdk&logoColor=e2d9f3)
+![SQL](https://img.shields.io/badge/SQL-2d1b69?style=flat-square&logo=mysql&logoColor=e2d9f3)
+![HTML5](https://img.shields.io/badge/HTML5-2d1b69?style=flat-square&logo=html5&logoColor=e2d9f3)
+![CSS3](https://img.shields.io/badge/CSS3-2d1b69?style=flat-square&logo=css3&logoColor=e2d9f3)
 
-**Data & Analytics**
+**⬡ Testing & Automation**
 
-![PowerBI](https://img.shields.io/badge/Power%20BI-fce4ec?style=flat-square&logo=powerbi&logoColor=c2185b)
-![Pandas](https://img.shields.io/badge/Pandas-f8bbd0?style=flat-square&logo=pandas&logoColor=c2185b)
-![NumPy](https://img.shields.io/badge/NumPy-fce4ec?style=flat-square&logo=numpy&logoColor=c2185b)
-![Excel](https://img.shields.io/badge/Excel-f8bbd0?style=flat-square&logo=microsoftexcel&logoColor=c2185b)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-fce4ec?style=flat-square&logo=scikitlearn&logoColor=c2185b)
+![Selenium](https://img.shields.io/badge/Selenium-1a0a2e?style=flat-square&logo=selenium&logoColor=a78bfa)
+![TestNG](https://img.shields.io/badge/TestNG-1a0a2e?style=flat-square&logoColor=a78bfa)
+![Appium](https://img.shields.io/badge/Appium-1a0a2e?style=flat-square&logoColor=a78bfa)
+![Postman](https://img.shields.io/badge/Postman-1a0a2e?style=flat-square&logo=postman&logoColor=a78bfa)
+![JUnit5](https://img.shields.io/badge/JUnit5-1a0a2e?style=flat-square&logo=junit5&logoColor=a78bfa)
+![LambdaTest](https://img.shields.io/badge/LambdaTest-1a0a2e?style=flat-square&logoColor=a78bfa)
 
-**Tools & Platforms**
+**⬡ Data & Analytics**
 
-![Git](https://img.shields.io/badge/Git-fce4ec?style=flat-square&logo=git&logoColor=c2185b)
-![GitHub](https://img.shields.io/badge/GitHub-f8bbd0?style=flat-square&logo=github&logoColor=c2185b)
-![VSCode](https://img.shields.io/badge/VS%20Code-fce4ec?style=flat-square&logo=visualstudiocode&logoColor=c2185b)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-f8bbd0?style=flat-square&logo=intellijidea&logoColor=c2185b)
-![Maven](https://img.shields.io/badge/Maven-fce4ec?style=flat-square&logo=apachemaven&logoColor=c2185b)
+![Power BI](https://img.shields.io/badge/Power%20BI-2d1b69?style=flat-square&logo=powerbi&logoColor=e2d9f3)
+![Pandas](https://img.shields.io/badge/Pandas-2d1b69?style=flat-square&logo=pandas&logoColor=e2d9f3)
+![NumPy](https://img.shields.io/badge/NumPy-2d1b69?style=flat-square&logo=numpy&logoColor=e2d9f3)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-2d1b69?style=flat-square&logo=scikitlearn&logoColor=e2d9f3)
+![Excel](https://img.shields.io/badge/Excel-2d1b69?style=flat-square&logo=microsoftexcel&logoColor=e2d9f3)
+
+**⬡ Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-1a0a2e?style=flat-square&logo=git&logoColor=a78bfa)
+![GitHub](https://img.shields.io/badge/GitHub-1a0a2e?style=flat-square&logo=github&logoColor=a78bfa)
+![VS Code](https://img.shields.io/badge/VS%20Code-1a0a2e?style=flat-square&logo=visualstudiocode&logoColor=a78bfa)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-1a0a2e?style=flat-square&logo=intellijidea&logoColor=a78bfa)
+![Maven](https://img.shields.io/badge/Maven-1a0a2e?style=flat-square&logo=apachemaven&logoColor=a78bfa)
+![MongoDB Atlas](https://img.shields.io/badge/Atlas-1a0a2e?style=flat-square&logo=mongodb&logoColor=a78bfa)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-1a0a2e?style=flat-square&logo=google&logoColor=a78bfa)
 
 </div>
 
@@ -86,60 +98,78 @@ status   : always learning, always building
 
 ---
 
-## ✦ github stats
+## 〔 featured projects 〕
 
 <div align="center">
 
-<!-- Profile view counter — working -->
-![Profile Views](https://komarev.com/ghpvc/?username=Shrutishinha&color=e91e63&style=flat-square&label=profile+views)
-&nbsp;
-![Followers](https://img.shields.io/github/followers/Shrutishinha?style=flat-square&color=e91e63&labelColor=fce4ec&label=followers)
-&nbsp;
-![Since](https://img.shields.io/badge/github%20since-2023-e91e63?style=flat-square)
-&nbsp;
-![Feb Commits](https://img.shields.io/badge/feb%202026-63%20commits-e91e63?style=flat-square)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### 🚀 [HireTrack](https://github.com/Shrutishinha/HireTrack)
+> **Your Personal Job Search OS**
 
-<!-- Stats card — using ?v=2 cache bust + no theme override for reliability -->
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&hide_border=true&bg_color=fce4ec&title_color=880e4f&text_color=c2185b&icon_color=e91e63&border_radius=12&count_private=true"/>
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutishinha&layout=compact&hide_border=true&bg_color=fce4ec&title_color=880e4f&text_color=c2185b&border_radius=12&langs_count=6"/>
+Full-stack MERN app with AI-powered skill gap analysis, Kanban pipeline, real-time job listings via Adzuna/JSearch APIs, and Gemini AI integration.
 
-<br/><br/>
+`MongoDB` `Express` `React` `Node.js` `Gemini API` `JWT` `Tailwind` `Vite`
 
-<!-- Streak — demolab is most reliable -->
-<img src="https://streak-stats.demolab.com?user=Shrutishinha&hide_border=true&background=fce4ec&ring=e91e63&fire=c2185b&currStreakLabel=880e4f&sideLabels=880e4f&currStreakNum=e91e63&sideNums=c2185b&dates=ad1457&border_radius=12"/>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### 📊 [Risk Analysis Dashboard](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard)
+> **Interactive Power BI Dashboard**
 
----
+Business process & risk analysis dashboard with DAX insights, KPI tracking, and risk prioritization views.
 
-## ✦ contribution graph
+`Power BI` `DAX` `Excel` `Data Modelling`
 
-<div align="center">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Activity graph — verified working -->
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutishinha&bg_color=fce4ec&color=880e4f&line=e91e63&point=c2185b&area=true&area_color=f8bbd0&hide_border=true&radius=6&custom_title=Contribution%20Graph"/>
+### 🧪 [LambdaTest Search Automation](https://github.com/Shrutishinha/lambdatest-search-test)
+> **Cross-Browser Test Suite**
 
-</div>
+Automated product search testing using KaneAI & HyperExecute on the LambdaTest platform with parallel execution.
 
----
+`Selenium` `Java` `TestNG` `LambdaTest` `Maven`
 
-## ✦ projects
+</td>
+<td width="50%" valign="top">
 
-<div align="center">
+### 📱 [Mobile Test Cases](https://github.com/Shrutishinha/lamda_mobile_testcases)
+> **App Automation Framework**
 
-| Project | Description | Stack | Commits |
-|:--------|:------------|:------|:-------:|
-| [**Risk Analysis Dashboard**](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard) | Power BI dashboard with DAX insights & risk prioritization | Power BI · DAX · Excel | 5 |
-| [**Resume Analyser**](https://github.com/Shrutishinha/Resume-Analyser) | ATS scoring + intelligent skill gap matching | Python · NLP · ML | 7 |
-| [**Smart Attendance System**](https://github.com/Shrutishinha/smart-attendance-system) | Analytics-powered attendance tracking system | Python · SQL · Power BI | 9 |
-| [**LambdaTest Search**](https://github.com/Shrutishinha/lambdatest-search-test) | Cross-browser automation test suite | Selenium · Java · TestNG | 5 |
-| [**Mobile Testcases**](https://github.com/Shrutishinha/lamda_mobile_testcases) | Mobile automation testing framework | Appium · Java | 3 |
-| [**Attendance Predictor**](https://github.com/Shrutishinha/smart-attendance-predictor) | ML-based attendance prediction model | Python · scikit-learn | 1 |
-| [**Aarogyavan**](https://github.com/Shrutishinha/aarogyavan) | Health & wellness tracking application | Python · Analytics | 5 |
-| [**Portfolio**](https://github.com/Shrutishinha/portfolio) | Personal portfolio website | HTML · CSS · JS | 3 |
+Mobile automation tests generated using KaneAI — covering functional flows on the LambdaTest mobile grid.
+
+`Appium` `Java` `KaneAI` `Mobile Testing`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [Resume Analyser](https://github.com/Shrutishinha/Resume-Analyser)
+> **ATS Scoring + Skill Gap Matching**
+
+Intelligent resume parser with ATS compatibility scoring and skill gap matching using NLP techniques.
+
+`Python` `NLP` `ML` `HTML`
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 [Smart Attendance System](https://github.com/Shrutishinha/smart-attendance-system)
+> **Analytics-Powered Tracking**
+
+Attendance tracking with integrated analytics dashboards and ML-based prediction capabilities.
+
+`Python` `SQL` `Power BI` `scikit-learn`
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -147,75 +177,71 @@ status   : always learning, always building
 
 ---
 
-## ✦ february 2026 — activity snapshot
+## 〔 github stats 〕
 
 <div align="center">
 
-**63 commits · 10 repositories · 100% commit focus**
+![Profile Views](https://komarev.com/ghpvc/?username=Shrutishinha&color=7c3aed&style=flat-square&label=profile+views)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Shrutishinha?style=flat-square&color=7c3aed&labelColor=2d1b69&label=followers)
+&nbsp;
+![Contributions](https://img.shields.io/badge/contributions%20last%20year-442-7c3aed?style=flat-square)
+&nbsp;
+![GitHub Since](https://img.shields.io/badge/github%20since-2023-7c3aed?style=flat-square)
 
-| Repository | Commits | Breakdown |
-|:-----------|:-------:|:----------|
-| [Shrutishinha](https://github.com/Shrutishinha/Shrutishinha) | 18 | `███████████████░` |
-| [shee](https://github.com/Shrutishinha/shee) | 11 | `████████████░░░░` |
-| [smart-attendance-system](https://github.com/Shrutishinha/smart-attendance-system) | 9 | `██████████░░░░░░` |
-| [Resume-Analyser](https://github.com/Shrutishinha/Resume-Analyser) | 7 | `████████░░░░░░░░` |
-| [aarogyavan](https://github.com/Shrutishinha/aarogyavan) | 5 | `██████░░░░░░░░░░` |
-| [lambdatest-search-test](https://github.com/Shrutishinha/lambdatest-search-test) | 8 | `██████░░░░░░░░░░` |
-| [Risk-Analysis-PowerBI-Dashboard](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard) | 5 | `██████░░░░░░░░░░` |
-| [lamda_mobile_testcases](https://github.com/Shrutishinha/lamda_mobile_testcases) | 5 | `████░░░░░░░░░░░░` |
-| [portfolio](https://github.com/Shrutishinha/portfolio) | 3 | `████░░░░░░░░░░░░` |
-| [smart-attendance-predictor](https://github.com/Shrutishinha/smart-attendance-predictor) | 7 | `██░░░░░░░░░░░░░░` |
+<br/><br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3&icon_color=7c3aed&border_radius=12&count_private=true&include_all_commits=true"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutishinha&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3&border_radius=12&langs_count=7"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Shrutishinha&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=e2d9f3&sideLabels=a78bfa&currStreakNum=a78bfa&sideNums=e2d9f3&dates=7c3aed&border_radius=12"/>
 
 </div>
 
 ---
 
-## ✦ currently learning
+## 〔 contribution graph 〕
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutishinha&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e2d9f3&area=true&area_color=2d1b69&hide_border=true&radius=6&custom_title=Contribution%20Activity"/>
+
+</div>
+
+---
+
+## 〔 currently leveling up 〕
 
 ```
-Advanced Selenium Frameworks   ████████░░   80%
-API Testing & CI/CD            ██████░░░░   60%
-Cloud Fundamentals             █████░░░░░   50%
-Machine Learning               ████░░░░░░   40%
-Docker & DevOps                ███░░░░░░░   30%
+MERN Stack & Full-Stack     ██████████░   90%
+Selenium & Test Automation  █████████░░   85%
+Power BI & Data Analytics   ████████░░░   75%
+Docker & DevOps             █████░░░░░░   45%
+Cloud (AWS Fundamentals)    ████░░░░░░░   40%
+Machine Learning            ████░░░░░░░   40%
 ```
 
 ---
 
-## ✦ connect
+## 〔 connect with me 〕
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shruti%20Sinha-e91e63?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-sinha-60b112270)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shruti%20Sinha-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shruti-sinha-60b112270)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-sinha.shruti1009%40gmail.com-e91e63?style=flat-square&logo=gmail&logoColor=white)](mailto:sinha.shruti1009@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sinha.shruti1009%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinha.shruti1009@gmail.com)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Shrutishinha-e91e63?style=flat-square&logo=github&logoColor=white)](https://github.com/Shrutishinha)
+[![GitHub](https://img.shields.io/badge/GitHub-Shrutishinha-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrutishinha)
 
 <br/>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:2d1b69,100:0d1117&height=130&section=footer&animation=twinkling&fontColor=a78bfa"/>
 
 </div>
-
----
-
-<div align="center">
-
-`clean code · quiet confidence · always building`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e91e63,50:f48fb1,100:fce4ec&height=140&section=footer&animation=twinkling"/>
-
-</div>
-
-<!--
-  IMAGE FIX NOTES:
-  ✅ Typing SVG     → readme-typing-svg.herokuapp.com with [![](url)](url) syntax
-  ✅ Stats cards    → github-readme-stats.vercel.app (no theme= param, custom colors)
-  ✅ Streak         → streak-stats.demolab.com
-  ✅ Activity graph → github-readme-activity-graph.vercel.app
-  ✅ Trophies REMOVED — vercel.app/trophy was returning broken images
-  ✅ Repo pin cards REMOVED — only load if repos are public with descriptions
-  ✅ Divider GIF    → user-images.githubusercontent.com (CDN, verified)
-  ✅ Username       → Shrutishinha (correct casing)
--->
