@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+full-stack+apps+with+MERN+%26+AI+integrations;Automating+the+repetitive%2C+analyzing+the+complex;442+contributions+and+counting...;From+Kanban+pipelines+to+Power+BI+dashboards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=750&lines=Building+full-stack+apps+with+MERN+%26+AI+integrations;Data+Analyst+Intern+%40+UMS+Certification+Pvt.+Ltd.;250%2B+DSA+problems+on+LeetCode+%E2%80%94+and+counting;442+contributions+%7C+IBM+%7C+AWS+%7C+Tata+%7C+IIT+Bombay+certified)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,9 +21,12 @@
 ```typescript
 const shruti: Developer = {
   name        : "Shruti Sinha",
-  degree      : "B.Tech CSE @ Dronacharya College, Gurugram",
-  role        : "Software Developer / Automation Engineer",
+  location    : "New Delhi, India",
+  degree      : "B.Tech CSE @ Dronacharya College, Gurugram (2027)",
+  role        : "Software Developer | Data Analyst",
+  experience  : "Data Analyst Intern @ UMS Certification Pvt. Ltd.",
   currentWork : "HireTrack — AI-powered job search OS (MERN)",
+  cp          : "250+ LeetCode problems | Arrays, DP, Greedy, Sliding Window",
   interests   : ["Full-Stack Dev", "Test Automation", "Data Analytics"],
   learning    : ["Docker & CI/CD", "Advanced Selenium", "Cloud (AWS)"],
   mantra      : "ship clean code, stay curious, keep building."
@@ -31,12 +34,83 @@ const shruti: Developer = {
 ```
 
 **What I'm up to:**
-- 🚀 Building **HireTrack** — a full-stack job tracking app with Gemini AI, Kanban pipeline & real-time job feeds
-- 🧪 Crafting cross-browser automation test suites with **Selenium + TestNG + LambdaTest**
-- 📊 Designing **Power BI dashboards** with DAX insights & risk analysis
-- 🤖 Exploring ML-based prediction models & NLP for resume analysis
+- 🚀 Building **HireTrack** — full-stack MERN job tracker with Gemini AI, Kanban pipeline & real-time job feeds
+- 📊 Ex-**Data Analyst Intern @ UMS Certification** — Python pipelines, Power BI dashboards, data integrity systems
+- 🧠 Grinding **LeetCode** — 250+ problems across Arrays, DP, Greedy & Sliding Window (85%+ accuracy)
+- 🏅 Certified by **IBM**, **AWS**, **Tata Group** & **IIT Bombay**
 
 <br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 〔 experience 〕
+
+<table width="100%">
+<tr>
+<td width="6%" align="center">📌</td>
+<td width="94%">
+
+### Data Analyst Intern — [UMS Certification Pvt. Ltd.](https://www.umscertification.com)
+**`Jun 2025 – Aug 2025`** &nbsp;|&nbsp; New Delhi, India
+
+- 🔹 Processed & analyzed large certification datasets using **Python (Pandas)** and **Power BI**
+- 🔹 Built **automated reporting pipelines** that significantly reduced manual effort across teams
+- 🔹 Designed **data integrity checks** to flag anomalies before downstream reporting — improved accuracy & reliability
+- 🔹 Delivered insights via interactive Power BI dashboards for business decision-making
+
+`Python` `Pandas` `Power BI` `Data Pipelines` `DAX` `Excel`
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 〔 education 〕
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|:----------|:--------------|:--------|
+| **B.Tech — Computer Science & Engineering** | Dronacharya College of Engineering, Gurugram | 2023 – 2027 |
+| **CBSE Senior Secondary (PCM)** | — | Mar 2022 |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
+## 〔 certifications & achievements 〕
+
+<div align="center">
+
+| 🏅 Certificate | 🏢 Issuer | 🔖 Type |
+|:--------------|:---------|:--------|
+| **Generative AI & Prompt Engineering** | IBM SkillsBuild | AI / ML |
+| **AWS Micro Internship** | Amazon Web Services | Cloud |
+| **Tata Data Analytics Virtual Internship** | Tata Group | Analytics |
+| **C Programming Training** | IIT Bombay | Core CS |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+🏆  250+ DSA problems solved on LeetCode
+    Arrays · Strings · Sliding Window · Greedy · Dynamic Programming
+    85%+ accuracy across all problem categories
+
+🚀  Built & deployed multiple full-stack production-level projects end-to-end
+```
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -55,12 +129,14 @@ const shruti: Developer = {
 ![Vite](https://img.shields.io/badge/Vite-1a0a2e?style=flat-square&logo=vite&logoColor=a78bfa)
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a0a2e?style=flat-square&logo=tailwindcss&logoColor=a78bfa)
 ![JWT](https://img.shields.io/badge/JWT-1a0a2e?style=flat-square&logo=jsonwebtokens&logoColor=a78bfa)
+![Axios](https://img.shields.io/badge/Axios-1a0a2e?style=flat-square&logo=axios&logoColor=a78bfa)
 
 **⬡ Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-2d1b69?style=flat-square&logo=javascript&logoColor=e2d9f3)
-![Python](https://img.shields.io/badge/Python-2d1b69?style=flat-square&logo=python&logoColor=e2d9f3)
 ![Java](https://img.shields.io/badge/Java-2d1b69?style=flat-square&logo=openjdk&logoColor=e2d9f3)
+![Python](https://img.shields.io/badge/Python-2d1b69?style=flat-square&logo=python&logoColor=e2d9f3)
+![C++](https://img.shields.io/badge/C++-2d1b69?style=flat-square&logo=cplusplus&logoColor=e2d9f3)
 ![SQL](https://img.shields.io/badge/SQL-2d1b69?style=flat-square&logo=mysql&logoColor=e2d9f3)
 ![HTML5](https://img.shields.io/badge/HTML5-2d1b69?style=flat-square&logo=html5&logoColor=e2d9f3)
 ![CSS3](https://img.shields.io/badge/CSS3-2d1b69?style=flat-square&logo=css3&logoColor=e2d9f3)
@@ -88,7 +164,8 @@ const shruti: Developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-1a0a2e?style=flat-square&logo=github&logoColor=a78bfa)
 ![VS Code](https://img.shields.io/badge/VS%20Code-1a0a2e?style=flat-square&logo=visualstudiocode&logoColor=a78bfa)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-1a0a2e?style=flat-square&logo=intellijidea&logoColor=a78bfa)
-![Maven](https://img.shields.io/badge/Maven-1a0a2e?style=flat-square&logo=apachemaven&logoColor=a78bfa)
+![Linux](https://img.shields.io/badge/Linux%20CLI-1a0a2e?style=flat-square&logo=linux&logoColor=a78bfa)
+![AWS](https://img.shields.io/badge/AWS-1a0a2e?style=flat-square&logo=amazonaws&logoColor=a78bfa)
 ![MongoDB Atlas](https://img.shields.io/badge/Atlas-1a0a2e?style=flat-square&logo=mongodb&logoColor=a78bfa)
 ![Gemini API](https://img.shields.io/badge/Gemini%20API-1a0a2e?style=flat-square&logo=google&logoColor=a78bfa)
 
@@ -109,19 +186,19 @@ const shruti: Developer = {
 ### 🚀 [HireTrack](https://github.com/Shrutishinha/HireTrack)
 > **Your Personal Job Search OS**
 
-Full-stack MERN app with AI-powered skill gap analysis, Kanban pipeline, real-time job listings via Adzuna/JSearch APIs, and Gemini AI integration.
+Full-stack MERN app with AI-powered skill gap analysis, Kanban pipeline, real-time job listings via Adzuna/JSearch APIs, Gemini AI integration, JWT auth & scalable MongoDB Atlas schemas.
 
-`MongoDB` `Express` `React` `Node.js` `Gemini API` `JWT` `Tailwind` `Vite`
+`MongoDB` `Express` `React` `Node.js` `Gemini API` `JWT` `Tailwind` `Vite` `Axios`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 [Risk Analysis Dashboard](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard)
-> **Interactive Power BI Dashboard**
+### 📊 [Customer Churn Dashboard](https://github.com/Shrutishinha/Risk-Analysis-PowerBI-Dashboard)
+> **Power BI + Python Analytics**
 
-Business process & risk analysis dashboard with DAX insights, KPI tracking, and risk prioritization views.
+Interactive analytics dashboard to visualize churn patterns & retention metrics. Python used for preprocessing before Power BI ingestion.
 
-`Power BI` `DAX` `Excel` `Data Modelling`
+`Power BI` `Python` `Pandas` `DAX` `Data Modelling`
 
 </td>
 </tr>
@@ -131,7 +208,7 @@ Business process & risk analysis dashboard with DAX insights, KPI tracking, and 
 ### 🧪 [LambdaTest Search Automation](https://github.com/Shrutishinha/lambdatest-search-test)
 > **Cross-Browser Test Suite**
 
-Automated product search testing using KaneAI & HyperExecute on the LambdaTest platform with parallel execution.
+Automated product search testing using KaneAI & HyperExecute on LambdaTest with parallel execution across browsers.
 
 `Selenium` `Java` `TestNG` `LambdaTest` `Maven`
 
@@ -151,9 +228,9 @@ Mobile automation tests generated using KaneAI — covering functional flows on 
 <td width="50%" valign="top">
 
 ### 🤖 [Resume Analyser](https://github.com/Shrutishinha/Resume-Analyser)
-> **ATS Scoring + Skill Gap Matching**
+> **ATS Keyword Scoring Engine**
 
-Intelligent resume parser with ATS compatibility scoring and skill gap matching using NLP techniques.
+Keyword-matching scoring system simulating recruiter shortlisting logic — outputs pass/fail reports with match % breakdowns.
 
 `Python` `NLP` `ML` `HTML`
 
@@ -177,6 +254,29 @@ Attendance tracking with integrated analytics dashboards and ML-based prediction
 
 ---
 
+## 〔 competitive programming 〕
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20Problems-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shruti10/)
+
+```
+📌 Topics Mastered
+  Arrays & Strings          ██████████  ✅
+  Sliding Window            █████████░  ✅
+  Greedy Algorithms         ████████░░  ✅
+  Dynamic Programming       ███████░░░  🔄
+  Trees & Graphs            ██████░░░░  🔄
+
+🎯 Overall Accuracy: 85%+
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+---
+
 ## 〔 github stats 〕
 
 <div align="center">
@@ -188,6 +288,8 @@ Attendance tracking with integrated analytics dashboards and ML-based prediction
 ![Contributions](https://img.shields.io/badge/contributions%20last%20year-442-7c3aed?style=flat-square)
 &nbsp;
 ![GitHub Since](https://img.shields.io/badge/github%20since-2023-7c3aed?style=flat-square)
+&nbsp;
+![LeetCode](https://img.shields.io/badge/LeetCode-250%2B%20solved-7c3aed?style=flat-square&logo=leetcode&logoColor=white)
 
 <br/><br/>
 
@@ -219,10 +321,21 @@ Attendance tracking with integrated analytics dashboards and ML-based prediction
 MERN Stack & Full-Stack     ██████████░   90%
 Selenium & Test Automation  █████████░░   85%
 Power BI & Data Analytics   ████████░░░   75%
+DSA & Competitive Prog.     ████████░░░   75%
 Docker & DevOps             █████░░░░░░   45%
 Cloud (AWS Fundamentals)    ████░░░░░░░   40%
 Machine Learning            ████░░░░░░░   40%
 ```
+
+---
+
+## 〔 soft skills 〕
+
+<div align="center">
+
+`🧩 Problem Solving` &nbsp; `📐 Analytical Thinking` &nbsp; `🔍 Attention to Detail` &nbsp; `🗣️ Communication` &nbsp; `🤝 Teamwork & Adaptability` &nbsp; `⏱️ Time Management`
+
+</div>
 
 ---
 
@@ -235,6 +348,8 @@ Machine Learning            ████░░░░░░░   40%
 [![Email](https://img.shields.io/badge/Email-sinha.shruti1009%40gmail.com-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinha.shruti1009@gmail.com)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Shrutishinha-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shrutishinha)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-shruti10-7c3aed?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shruti10/)
 
 <br/>
 
