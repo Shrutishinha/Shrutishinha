@@ -3,13 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a0a2e,60:2d1b69,100:7c3aed&height=300&section=header&text=Shruti%20Sinha&fontSize=72&fontColor=e2d9f3&animation=fadeIn&fontAlignY=42&desc=Software%20Developer%20%7C%20Full-Stack%20%7C%20Automation%20%7C%20Analytics&descSize=17&descAlignY=62&descColor=a78bfa&stroke=7c3aed&strokeWidth=2"/>
 
 </div>
-## 🏆 GitHub Achievements
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Shrutishinha&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4"/>
-
-</p>
 <p align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;MERN+%7C+Java+%7C+Python;Data+Analytics+%7C+Power+BI+%7C+SQL;Automation+Testing+with+Selenium;Building+AI-powered+Applications"/>
