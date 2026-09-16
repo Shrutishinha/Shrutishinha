@@ -218,7 +218,7 @@ Full-stack MERN app with AI-powered skill gap analysis, Kanban pipeline, real-ti
 </td>
 <td width="50%" valign="top">
 
-### 🧠 NLP Sentiment Analysis Studio
+### 🧠 [NLP Sentiment Analysis Studio](https://github.com/Shrutishinha/sentimental_analysis)
 > **9-Page NLP Dashboard**
 
 Full-stack dashboard covering data exploration, preprocessing, training & batch prediction. Trained 5 classifiers on the 50K-review IMDB dataset (~87% test accuracy) with real-time + batch inference via Joblib.
@@ -230,7 +230,7 @@ Full-stack dashboard covering data exploration, preprocessing, training & batch 
 <tr>
 <td width="50%" valign="top">
 
-### 🩺 AI Public Health Chatbot
+### 🩺 [AI Public Health Chatbot](https://github.com/Shrutishinha/Healthcare-Chatbot)
 > **Gemini + OpenAI Symptom Assistant**
 
 Integrated Gemini and OpenAI APIs for symptom analysis and health Q&A alongside a probability-based risk classifier. Automated PDF health report generation via ReportLab.
@@ -240,7 +240,7 @@ Integrated Gemini and OpenAI APIs for symptom analysis and health Q&A alongside 
 </td>
 <td width="50%" valign="top">
 
-### 🏫 Digital Learning Platform for Rural Schools
+### 🏫 [Digital Learning Platform for Rural Schools](https://github.com/Shrutishinha/rural-education-platform)
 > **Role-Based EdTech Platform**
 
 Role-based e-learning platform with separate student/teacher access and a low-bandwidth mode for constrained connectivity. Backend built on FastAPI + SQLAlchemy ORM over SQLite.
@@ -350,7 +350,7 @@ Attendance tracking with integrated analytics dashboards and ML-based prediction
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3&icon_color=7c3aed&border_radius=12&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3&icon_color=7c3aed&border_radius=12&include_all_commits=true"/>
 &nbsp;
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutishinha&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3&border_radius=12&langs_count=7"/>
 
