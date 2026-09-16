@@ -350,9 +350,17 @@ Attendance tracking with integrated analytics dashboards and ML-based prediction
 
 <br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shrutishinha&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3&icon_color=7c3aed&border_radius=12&include_all_commits=true"/>
+![Repos](https://img.shields.io/badge/Public%20Repos-23-2d1b69?style=for-the-badge&labelColor=0d1117&color=7c3aed)
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrutishinha&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2d9f3&border_radius=12&langs_count=7"/>
+![Stars](https://img.shields.io/badge/Stars%20Earned-8-2d1b69?style=for-the-badge&labelColor=0d1117&color=7c3aed)
+&nbsp;
+![Contributions](https://img.shields.io/badge/Total%20Contributions-696-2d1b69?style=for-the-badge&labelColor=0d1117&color=7c3aed)
+&nbsp;
+![Longest Streak](https://img.shields.io/badge/Longest%20Streak-26%20days-2d1b69?style=for-the-badge&labelColor=0d1117&color=7c3aed)
+
+<br/>
+
+**Top languages:** ![JS](https://img.shields.io/badge/JavaScript-2d1b69?style=flat-square&logo=javascript&logoColor=e2d9f3) ![Python](https://img.shields.io/badge/Python-2d1b69?style=flat-square&logo=python&logoColor=e2d9f3) ![HTML](https://img.shields.io/badge/HTML-2d1b69?style=flat-square&logo=html5&logoColor=e2d9f3) ![Java](https://img.shields.io/badge/Java-2d1b69?style=flat-square&logo=openjdk&logoColor=e2d9f3) ![Jupyter](https://img.shields.io/badge/Jupyter-2d1b69?style=flat-square&logo=jupyter&logoColor=e2d9f3)
 
 <br/><br/>
 
