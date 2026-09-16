@@ -374,7 +374,7 @@ Attendance tracking with integrated analytics dashboards and ML-based prediction
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shrutishinha&bg_color=0d1117&color=a78bfa&line=7c3aed&point=e2d9f3&area=true&area_color=2d1b69&hide_border=true&radius=6&custom_title=Contribution%20Activity"/>
+<img width="100%" src="https://ghchart.rshah.org/7c3aed/Shrutishinha" alt="Shruti's GitHub contribution graph"/>
 
 </div>
 
