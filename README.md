@@ -46,7 +46,7 @@ const shruti: Developer = {
 - 🩺 Built an **AI Public Health Chatbot** — Gemini + OpenAI powered symptom analysis with automated PDF health reports
 - 🏫 Built a **Digital Learning Platform for Rural Schools** — FastAPI + SQLAlchemy backend with a low-bandwidth mode for constrained connectivity
 - 📊 Ex-**Data Analyst Intern @ UMS Certification** — Python pipelines, Power BI dashboards, data integrity systems
-- 🎯 Grinding **LeetCode** — 250+ problems across Arrays, DP, Greedy & Sliding Window (85%+ accuracy)
+- 🎯 Grinding  **LeetCode** — 250+ problems across Arrays, DP, Greedy & Sliding Window (85%+ accuracy)
 - 🏅 Certified by **IBM**, **AWS**, **Tata Group**, **Infosys Springboard** & **IIT Bombay**
 
 <br clear="right"/>
